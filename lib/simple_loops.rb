@@ -11,3 +11,5 @@ def loop_message_n_times string , n
   while counter < n do 
     puts string
     counter += 1
+  end
+end
