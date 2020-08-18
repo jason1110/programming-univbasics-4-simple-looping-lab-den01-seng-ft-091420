@@ -29,5 +29,5 @@ def return_string_array array
     array[counter].to_s
     counter +=1
   end
-  array = string_array
+  string_array.push array
 end
